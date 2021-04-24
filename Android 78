@@ -1,0 +1,6 @@
+استيراد نظام التشغيل
+os.system ("clear")
+
+os.system ("pkg install git ")
+os.system ("تثبيت pkg tor")
+os.system ("tor")
