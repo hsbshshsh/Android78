@@ -1,0 +1,6 @@
+Himport os
+os.system ("clear")
+
+v = 0
+while v < 10:
+	print (v)
